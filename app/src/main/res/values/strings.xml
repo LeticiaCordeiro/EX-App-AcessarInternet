@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AcessarInternet</string>
+    <string name="navegador">Digite a URL e clique no botão: </string>
+    <string name="abrirNavegador">Abrir Navegador</string>
+</resources>
